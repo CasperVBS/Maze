@@ -1,0 +1,11 @@
+Derections:
+    0 = up
+    1 = right
+    2 = down
+    3 = left 
+    4 =
+        omkader function -> makes border around start cel without any gaps
+
+RH_solver
+    Right hand solver -> folow the right side of any wall
+        
